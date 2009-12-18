@@ -1,0 +1,8 @@
+= Introduction =
+
+This source is get start use Amazon Product Advertising API 
+
+
+= Details =
+
+just sample...
